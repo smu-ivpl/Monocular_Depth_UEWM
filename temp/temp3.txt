@@ -1,7 +1,5 @@
 this is a test file
 sfalkdfjlakjlkjlskdjf
-근데 퀴즈에 뭘 보는 걸까 알 수 없네...
-  응?
-  으엉?
-  뭐야이거
-  
+근데 퀴즈에 뭘 보는 걸까 알 수 없네
+수정사항~
+

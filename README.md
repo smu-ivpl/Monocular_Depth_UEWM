@@ -6,6 +6,7 @@
 ---
 
 # Summary of paper
+# opensource 강의 너무 잘 듣고 있습니다.
 
 #### Abstract
 > Depth estimation acts as an important factor for understanding spatial relations in the field of computer vision. In particular, it plays a key role in detecting obstacles and planning safe routes in autonomous driving technology. To ensure stability, improving the accuracy of depth estimation is emerging as an important issue, and research direction in the field of computer vision is also developing with the aim of improving accuracy.

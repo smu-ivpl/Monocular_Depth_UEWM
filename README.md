@@ -12,7 +12,8 @@
 >아진짜신기하네
 >아니 자동으로 추가되는 거 ㄹㅇ 느좋
 
-test
+<pre>본문</pre>
+<pre><code>코드 test</code></pre>
 ---
 
 # Summary of paper
